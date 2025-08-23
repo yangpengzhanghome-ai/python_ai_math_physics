@@ -8,9 +8,9 @@ This repository documents my daily practice and projects as I learn Python, math
 - Build machine learning and deep learning projects from scratch.
 
 ## Current Progress
-- **Week 1**: Python basics (variables, loops, functions). See the `exercises/` folder.
+- **Week 1**: Python basics (variables, loops, functions). See the `Exercises/` folder.
 
 ## How to Run
 Simply clone the repository and run any Python file:
-`git clone https://github.com/your-username/your-repo-name.git`
+`git clone https://github.com/yangpengzhanghome-ai/python_ai_math_physics.git`
 `python hello.py`
