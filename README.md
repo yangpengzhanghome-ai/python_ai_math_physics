@@ -11,6 +11,6 @@ This repository documents my daily practice and projects as I learn Python, math
 - **Week 1**: Python basics (variables, loops, functions). See the `Exercises/` folder.
 
 ## How to Run
-Simply clone the repository and run any Python file:
-`git clone https://github.com/yangpengzhanghome-ai/python_ai_math_physics.git`
+Simply clone the repository 
+`git clone https://github.com/yangpengzhanghome-ai/python_ai_math_physics.git` and run any Python file:
 `python hello.py`
