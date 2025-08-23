@@ -13,4 +13,4 @@ This repository documents my daily practice and projects as I learn Python, math
 ## How to Run
 Simply clone the repository 
 `git clone https://github.com/yangpengzhanghome-ai/python_ai_math_physics.git` and run any Python file:
-`python hello.py`
+`python3 hello.py`
