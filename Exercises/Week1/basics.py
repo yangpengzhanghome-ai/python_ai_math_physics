@@ -57,16 +57,16 @@ print("a ** b =", power)
 first_name = "章"
 last_name = "羊盆"
 
-# 字符串连接
+# connect stings
 full_name = first_name + last_name
 print("全名:", full_name)
 
-# 字符串重复
+# repeat character
 laugh = "哈"
 big_laugh = laugh * 10
 print(big_laugh)  # 输出: 哈哈哈哈哈哈哈哈哈哈lol
 
-# 注意: 字符串和数字不能直接相加，需要先转换
+# remember that string and numbers cannot be added directly
 age = 25
 #print("我今年" + age + "岁")  # 这行会报错
 print("我今年" + str(age) + "岁")  # 正确写法: 使用str()函数将数字转为字符串
