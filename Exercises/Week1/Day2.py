@@ -10,4 +10,4 @@ try:
     else:
         print("The number you input is not an integer.")
 except ValueError:
-    print("Please enter a valid number(integer).")
+    print("Please enter a valid number(\integer).")
